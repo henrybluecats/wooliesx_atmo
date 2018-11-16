@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ATOMPOC v4</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_tap_on">Get Started</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_tap_off">Tap Off</string>
+    <string name="welcome_store">Welcome to \n %1$s</string>
+    <string name="label_scan_first">Scan your first item</string>
+
+</resources>

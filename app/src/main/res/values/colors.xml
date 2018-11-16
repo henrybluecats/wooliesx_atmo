@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#125430</color>
+    <color name="colorPrimaryDark">#0d4125</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="activity_background_color">#e2e5da</color>
+
+    <color name="colorSecondaryDark">#125430</color>
+    <color name="textColorDark">@color/colorSecondaryDark</color>
+    <color name="textColorPrimary">#4a4a4a</color>
+
+</resources>
